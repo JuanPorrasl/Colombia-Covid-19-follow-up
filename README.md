@@ -5,6 +5,8 @@ It is based on public available data published by the Government of Colombia.
 
 To view this Jupyter notebooks with all interactive plots you can check them on nbviewer:
 
-COLOMBIA:
+COLOMBIA: https://nbviewer.jupyter.org/github/JuanPorrasl/Colombia-Covid-19-follow-up/blob/main/Covid19%20Colombia.ipynb
 
-BOGOTÁ
+BOGOTÁ: https://nbviewer.jupyter.org/github/JuanPorrasl/Colombia-Covid-19-follow-up/blob/main/Covid-19%20Bogota.ipynb
+
+...
